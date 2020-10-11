@@ -3,9 +3,7 @@ import MenuItem from '../../components/menu-item/menu-item.component'
 import './HomePageDirectory.styles.scss'
 
 class Directory extends React.Component{
-  constructor(props){
-    super(props)
-  }
+  
   state={
     sections: [
   {
